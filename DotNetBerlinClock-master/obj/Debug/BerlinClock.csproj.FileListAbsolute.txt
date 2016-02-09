@@ -1,0 +1,14 @@
+E:\HCL\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+E:\HCL\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+E:\HCL\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+E:\HCL\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+E:\HCL\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+E:\HCL\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+E:\HCL\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
+E:\HCL\Samples\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll.config
+E:\HCL\Samples\DotNetBerlinClock-master\bin\Debug\BerlinClock.dll
+E:\HCL\Samples\DotNetBerlinClock-master\bin\Debug\BerlinClock.pdb
+E:\HCL\Samples\DotNetBerlinClock-master\bin\Debug\TechTalk.SpecFlow.dll
+E:\HCL\Samples\DotNetBerlinClock-master\obj\Debug\BerlinClock.csprojResolveAssemblyReference.cache
+E:\HCL\Samples\DotNetBerlinClock-master\obj\Debug\BerlinClock.dll
+E:\HCL\Samples\DotNetBerlinClock-master\obj\Debug\BerlinClock.pdb
